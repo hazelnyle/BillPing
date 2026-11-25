@@ -1,7 +1,7 @@
 {
-  "name": "Gifty",
-  "short_name": "Gifty",
-  "description": "Split a holiday budget across the people you are buying for.",
+  "name": "BillPing",
+  "short_name": "BillPing",
+  "description": "Make a clean bill and a ready-to-send message.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
